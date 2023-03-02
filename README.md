@@ -1,1 +1,1 @@
-My first readme
+Read me created in new directory
